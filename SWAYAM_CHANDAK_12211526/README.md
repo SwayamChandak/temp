@@ -14,10 +14,12 @@ Run the following command in the terminal:
 
 ```sh
 javac -d bin src/*.java
+```
 
-### **Execute the File using PoweShell or cmd**
+### **Execute the compiled file using PoweShell or cmd**
 ```sh
 java -cp bin KthSmallestBST
+```
 
 Enter the number of nodes, the value of the nodes, and the value of k to find the KthSmallestBST node 
 

@@ -23,15 +23,16 @@ java -cp bin KthSmallestBST
 
 Enter the number of nodes, the value of the nodes, and the value of k to find the KthSmallestBST node 
 
-Some sample test cases can be 
+# Sample test cases can be 
+
 TEST CASE 1
-Number of nodes- 4
-Nodes- 3, 4, 1, 2
-K-2 
-Answer- 2
+-Number of nodes- 4
+-Nodes- 3, 4, 1, 2
+-K-2 
+-Answer- 2
 
 TEST CASE 2
-Number of nodes- 7
-Nodes- 9, 10, 1, 4, 8, 18, 12
-K- 4
-Answer- 9
+-Number of nodes- 7
+-Nodes- 9, 10, 1, 4, 8, 18, 12
+-K- 4
+-Answer- 9
